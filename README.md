@@ -62,7 +62,7 @@ Microsoft Excel: PivotTable, PivotChart, Slicer, formulas
 
 ## How to Open
 
-[Download HR_Recruitment_Analytics.xlsb](https://github.com/Aulia-Akbar/hr-recruitment-analytics/raw/main/HR_Recruitment_Analytics.xlsb) and open it in Microsoft Excel. The file uses the Excel Binary format (.xlsb) to stay under GitHub's file size limit. If the dashboard looks empty, click **Data > Refresh All**.
+[Download HR_Recruitment_Analytics.xlsb](https://github.com/Aulia-Akbar/hr-recruitments-analytics/raw/main/HR_Recruitment_Analytics.xlsb) and open it in Microsoft Excel. The file uses the Excel Binary format (.xlsb) to stay under GitHub's file size limit. If the dashboard looks empty, click **Data > Refresh All**.
 
 ## Author
 
